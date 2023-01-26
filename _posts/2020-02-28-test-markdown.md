@@ -3,8 +3,8 @@ layout: post
 title: Chi sono io
 subtitle: la mia bio
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge:
+tags:
 comments: true
 ---
 
