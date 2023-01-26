@@ -51,11 +51,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: false
+  github: Jaskrii
+  twitter: false
+  patreon: false
+  youtube: false
+  instagram: Jaskriii
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -125,8 +126,8 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#000000"
+navbar-text-col: "#F8F8FF"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
