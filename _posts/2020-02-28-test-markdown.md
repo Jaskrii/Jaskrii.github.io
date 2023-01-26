@@ -1,78 +1,15 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Chi sono io
+subtitle: la mia bio
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Chi sono io? Ciao sono semplicemente Jaskri un giovane ragazzo di 16 anni che ama programmare in vari linguaggi come HTML,CSS,Java,Python
+Ora ti spiego brevemente la mia storia.
+Quando avevo solo 8 anni giocavo a un famoso gioco Minecraft entravo nei server per giocare e divertirmi. A quell'età mi viene un idea, un idea di aprire un server 
+Perchè? A 8 anni non si Puo? Ho cercato un host cosi a caso gratuito trovo il primo che lo becco,creo il server e vedo tutto il pannello per configurare il server.
+Vedo una sezione dedicata ai Plugin metto un Plugin e lo provai, ho provato ma i parametri non mi piacevano, decido di aprire il filme yml, dopo pochi minuti mi viene un altro dubbio e mi domando: Come e fatto sto Plugin? Allora apro altre cartelle e dentro trovo delle parole su parole che non riuscivo a capire,chiedo a un mio amico che cose questo e mi risponde e java e allora dopo 3 anni comincio a imparare java e dopo java comincio ad imparare altri linguaggi come HTML,CSS,Python e oggi sto imparando altri Linguaggi di programmazione quindi sopratutto HTML,CSS e Python.
