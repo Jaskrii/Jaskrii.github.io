@@ -9,7 +9,7 @@ body
   display:flex;
   justify-content:center;
   align-items:center;
-  minheight 100vh;;
+  min-height:100vh;
   background:#101010
 }
 .container
