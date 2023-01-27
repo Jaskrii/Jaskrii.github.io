@@ -7,7 +7,7 @@ footer.footer-min {
   bottom: 0;
   width: 100%;
   padding: 0.1875rem;
-  background-color: #B0E0E6;
-  border-top: 1px solid #eeeeee;
+  background-color: black;
+  border-top: 1px solid black;
   text-align: center;
 }
