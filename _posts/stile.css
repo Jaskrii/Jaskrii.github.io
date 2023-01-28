@@ -24,9 +24,9 @@ body {
   animation: load 3s normal forwards;;
   box-shadow: 0 10px 40px -10px #fff;
   border-radius: 100px;
-  background: greenyellow;
+  background: black;
   height: 30px;
-  width: 0;
+  width: 3;
 }
 
 @keyframes load {
