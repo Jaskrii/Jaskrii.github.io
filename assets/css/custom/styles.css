@@ -37,3 +37,9 @@ body {
     0% { width: 0; }
     100% { width: 68%; }
   }
+  .Center{
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    font-weight: 300px;
+  }
