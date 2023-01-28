@@ -4,6 +4,7 @@ body {
   background: #000;
   display: flex;
   height: 10vh;
+  width: auto;
   padding: 0;
   margin: 0;
 }
