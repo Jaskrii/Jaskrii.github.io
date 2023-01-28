@@ -14,7 +14,7 @@ body {
   justify-content: flex-start;
   border-radius: 100px;
   align-items: center;
-  position: relative;
+  position:fixed;
   padding: 0 5px;
   display: flex;
   height: 40px;
