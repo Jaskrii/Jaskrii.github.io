@@ -2,11 +2,12 @@ body {
     justify-content:center;
     align-items: center;
     background:black;
-    display: flex;
+    display:flex;
     height: 50vh;
     padding: 0;
     margin: 0;
     width: 250px;
+    font-weight: 300px;
     text-align: center;
     
   }
