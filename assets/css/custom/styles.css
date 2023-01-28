@@ -1,5 +1,5 @@
 body {
-    justify-content:start;
+    justify-content:baseline;
     align-items: center;
     background:black;
     display: flex;
@@ -7,6 +7,7 @@ body {
     padding: 0;
     margin: 0;
     text-align: center;
+    
   }
   
   .progress {
