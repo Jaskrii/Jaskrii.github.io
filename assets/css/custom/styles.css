@@ -3,11 +3,11 @@ body {
     align-items: center;
     background:black;
     display:flex;
-    height: 200vh;
+    height: 100vh;
     padding: 0;
     margin: 0;
-    width:;
-    font-weight:;
+    width: 0;
+    font-weight: 0;
     text-align: center;
     
   }
