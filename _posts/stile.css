@@ -1,7 +1,7 @@
 body {
   justify-content: center;
   align-items: center;
-  background: brown;
+  background: blue;
   display: flex;
   height: 90vh;
   padding: 0;
@@ -24,7 +24,7 @@ body {
   animation: load 3s normal forwards;;
   box-shadow: 0 10px 40px -10px #fff;
   border-radius: 100px;
-  background: #fff;
+  background: greenyellow;
   height: 30px;
   width: 0;
 }
