@@ -3,9 +3,10 @@ body {
     align-items: center;
     background:black;
     display: flex;
-    height: 50px;
+    height: 50vh;
     padding: 0;
     margin: 0;
+    width: 250px;
     text-align: center;
     
   }
