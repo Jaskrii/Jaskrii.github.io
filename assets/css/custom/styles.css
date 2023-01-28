@@ -2,8 +2,8 @@ body {
   justify-content: center;
   align-items: center;
   background: #000;
-  display:inline-flex;
-  height: 10vh;
+  display:inline-block;
+  height: 39vh;
   width: auto;
   padding: 0;
   margin: 0;
