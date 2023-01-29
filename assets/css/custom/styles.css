@@ -1,7 +1,7 @@
 body {
     justify-content:center;
     align-items:center;
-    background: #000;
+    background: grey;
     display:flow-root;
     height: 100vh;
     padding: 0;
