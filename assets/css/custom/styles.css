@@ -2,7 +2,7 @@ body {
   justify-content: center;
   align-items: center;
   background: #000;
-  display:inline-block;
+  display: flex;
   height: 100vh;
   padding: 0;
   margin: 0;
@@ -10,13 +10,13 @@ body {
 
 .progress {
   background: rgba(255,255,255,0.1);
-  justify-content:0 ;
+  justify-content: flex-start;
   border-radius: 100px;
-  align-items:0;
-  position:0;
+  align-items: center;
+  position: absoulute;
   padding: 0 5px;
-  display:0;
-  height: 34px;
+  display:;
+  height: 50px;
   width: 500px;
 }
 
@@ -25,9 +25,8 @@ body {
   box-shadow: 0 10px 40px -10px #fff;
   border-radius: 100px;
   background: #fff;
-  height: 35px;
+  height: 45px;
   width: 0;
-  text-align: Center;
 }
 
 @keyframes load {
