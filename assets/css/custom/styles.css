@@ -1,7 +1,7 @@
 body {
     justify-content:center;
     align-items:center;
-    background: white;
+    background: #000;
     display:flow-root;
     height: 100vh;
     padding: 0;
@@ -19,20 +19,10 @@ body {
     height: 40px;
     width: 500px;
   }
-  .progress-valu {
-    justify-content: flex-start;
-    border-radius: 100px;
-    align-items: center;
-    position: relative;
-    padding: 0 5px;
-    display: inline;
-    height: 40px;
-    width: 390px;
-  }
   
   .progress-value {
     animation: load 3s normal forwards;
-    box-shadow: 0 10px 40px -10px;
+    box-shadow: 0 10px 40px -10px #fff;
     border-radius: 100px;
     background: #fff;
     height: 30px;
