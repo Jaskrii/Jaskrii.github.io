@@ -19,6 +19,16 @@ body {
     height: 40px;
     width: 500px;
   }
+  .progress-valu {
+    justify-content: flex-start;
+    border-radius: 100px;
+    align-items: center;
+    position: relative;
+    padding: 0 5px;
+    display: inline;
+    height: 40px;
+    width: 390px;
+  }
   
   .progress-value {
     animation: load 3s normal forwards;
