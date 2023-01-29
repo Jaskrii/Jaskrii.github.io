@@ -2,7 +2,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #000;
-    display:inline;
+    display:grid;
     height: 100vh;
     padding: 0;
     margin: 0;
