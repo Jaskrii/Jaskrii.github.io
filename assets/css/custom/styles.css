@@ -28,7 +28,8 @@ body {
     padding: 0 5px;
     display: inline;
     height: 40px;
-    width: 250px;
+    width: 200px;
+   
   }
   
   .progressm {
@@ -39,7 +40,7 @@ body {
     padding: 0 5px;
     display: inline;
     height: 40px;
-    width: 230px;
+    width: 260px;
   }
   .progress-value {
     animation: load 3s normal forwards;
